@@ -1,0 +1,1 @@
+This repository contains data and scripts used for analyses in the planned publication: TGF-β1 Induces Epithelial-Mesenchymal Transition in Cuta-neous Squamous Cell Carcinoma in Vitro. For questions regarding the analysis please contact marc.bender@elbekliniken.de. 
